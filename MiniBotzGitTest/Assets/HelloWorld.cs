@@ -8,6 +8,7 @@ public class HelloWorld : MonoBehaviour {
 	void Start () {
         Debug.Log("Hello world!");
         Debug.Log("Git Test");
+        Debug.Log("One more time");
 
     }
 	
